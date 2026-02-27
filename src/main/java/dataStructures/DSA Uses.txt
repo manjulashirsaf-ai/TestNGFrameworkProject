@@ -1,0 +1,237 @@
+Real-life Applications of Data Structures and Algorithms (DSA)
+You may have heard that DSA is primarily used in the field of computer science. Although DSA is most commonly used in the computing field, its application is not restricted to it. The concept of DSA can also be found in everyday life. 
+Here we’ll address the common concept of DSA that we use in our day-to-day lives.
+
+Application of Data Structure:
+Application of Arrays
+Application of Strings
+Application of Matrix
+Application of Linked Lists
+Application of Stack
+Application of Queue
+Application of Priority Queue
+Application of Graph
+Application of Tree
+Application of Binary Search Tree
+Application of RED-BLACK Tree
+Application of AVL Tree
+Application of SUFFIX Tree
+Application of TRIE
+Application of Hash Tables
+Application of Heap
+Application of Algorithm
+
+Application of Sorting Algorithms:
+Application of Greedy Algorithms
+Application of Dijkstra Algorithm
+Application of PRIM’S and KRUSKAL’S Algorithm
+Application of Dynamic Programming Algorithms
+Application of Backtracking Algorithms
+
+Application of Data Structure:
+A data structure is a particular way of organizing data in a computer so that it can be used effectively. The real-life applications of all the data structures are discussed below. 
+
+Application of Arrays:
+Arrays are the simplest data structures that store items of the same data type. A basic application of Arrays can be storing data in tabular format. 
+For example, if we wish to store the contacts on our phone, then the software will simply place all our contacts in an array.
+Arrangement of the leader board of a game can be done simply through arrays to store the score and arrange them in descending order to clearly make out the rank of each player in the game.
+A simple question Paper is an array of numbered questions with each of them assigned some marks.
+2D arrays, commonly known as, matrices, are used in image processing.
+It is also used in speech processing, in which each speech signal is an array. 
+Your viewing screen is also a multidimensional array of pixels.
+Book titles in a Library Management Systems.
+Online ticket booking.
+Contacts on a cell phone.
+For CPU scheduling in computer.
+To store the possible moves of chess on a chessboard.
+To store images of a specific size on an android or laptop.
+ 
+Application of Strings:
+Spam email detection.
+Plagiarism detection.
+Search engine.
+Digital forensic and information retrieval system
+Spell checkers.
+In the database to check valid information of the user
+ 
+Application of Matrix:
+Matrix is an ordered collection of columns and rows of elements. It is necessary to enclose the elements of a matrix within the brackets.
+In geology, matrices are used for making seismic surveys.
+Used for plotting graphs, and statistics and also to do scientific studies and research in almost different fields.
+Matrices are also used in representing real-world data like the population of people, infant mortality rate, etc.
+They are the best representation methods for plotting surveys. 
+ For refraction and reflection in science optics.
+Electronic circuit and quantum physics.
+Media player.
+Mailing list.
+Symbol table creation.
+ 
+Application of Linked Lists:
+A linked list is a sequence data structure, which connects elements, called nodes, through links.  
+Images are linked with each other. So, an image viewer software uses a linked list to view the previous and the next images using the previous and next buttons.
+Web pages can be accessed using the previous and the next URL links which are linked using a linked list.
+The music players also use the same technique to switch between music.
+To keep the track of turns in a multi-player game, a circular linked list is used. 
+MS-Paint drawings and shapes are connected via a linked list on canvas.
+Social media content “feeds”.
+Used for symbol table management in a designing compiler
+Used in switching between applications and programs (Alt + Tab) in the Operating system (implemented using Circular Linked List)
+Train coaches are connected to one another in a doubly-linked list fashion.
+It can be used to implement Stacks, Queues, Graphs, and Trees.
+To perform undo operation.
+Back button.[LIFO]
+Syntax in the coding editor.
+History of visited pages. 
+
+Application of Stack:
+A stack is a data structure that uses LIFO order.  
+Converting infix to postfix expressions.
+Undo/Redo button/operation in word processors.
+Syntaxes in languages are parsed using stacks.
+It is used in many virtual machines like JVM.
+Forward-backward surfing in the browser.
+History of visited websites.
+Message logs and all messages you get are arranged in a stack.
+Call logs, E-mails, Google photos’ any gallery, YouTube downloads, Notifications ( latest appears first ).
+Scratch card’s earned after Google pay transaction.
+Wearing/Removing Bangles, Pile of Dinner Plates, Stacked chairs.
+Changing wearables on a cold evening, first in, comes out at last.
+Last Hired, First Fired - which is typically utilized when a company reduces its workforce in an economic recession.
+Loading bullets into the magazine of a gun. The last one to go in is fired first. Bam!
+Java Virtual Machine.
+Recursion.
+Used in IDEs to check for proper parentheses matching
+Media playlist. T o play previous and next song 
+
+Application of Queue:
+A queue is a data structure that uses FIFO order.  
+Operating System uses queues for job scheduling.
+To handle congestion in the networking queue can be used.
+Data packets in communication are arranged in queue format.
+Sending an e-mail, it will be queued.
+Server while responding to request
+Uploading and downloading photos, first kept for uploading/downloading will be completed first (Not if there is threading)
+Most internet requests and processes use queue.
+While switching multiple applications, windows use circular queue.
+In Escalators, Printer spooler, Car washes queue.
+A circular queue is used to maintain the playing sequence of multiple players in a game.
+A queue can be implemented in - Linked List-based Queue, Array-based Queue, Stack-based Queue.
+Uploading and downloading photos, first kept for uploading/downloading will be completed first (Not if there is threading).
+ Handle website traffic
+CPU scheduling
+
+Application of Priority Queue:
+Process scheduling in the kernel.
+Priority queues are used in file-downloading operations in a browser
+ Vehicle at the toll center.
+
+Application of Graph:
+Graph is a data structure where data is stored in a collection of interconnected vertices (nodes) and edges (paths).  
+Facebook’s Graph API uses the structure of Graphs.
+Google’s Knowledge Graph also has to do something with Graph.
+Dijkstra algorithm or the shortest path first algorithm also uses graph structure to find the smallest path between the nodes of the graph.
+The GPS navigation system also uses shortest path APIs.
+Networking components have a huge application for graph
+Facebook, Instagram, and all social media networking sites every user is Node
+Data organization
+React’s virtual DOM uses graph data structures.
+MS Excel uses DAG (Directed Acyclic Graphs).
+Path Optimization Algorithms, BFS, DFS.
+Recommendation Engines.
+Scientific Computations, Flight Networks, Page ranking.
+Google map to find nearest location.
+Facebook to suggest mutual friends  
+
+Application of Tree:
+Trees are hierarchical structures having a single root node.  
+XML Parser uses tree algorithms.
+The decision-based algorithm is used in machine learning which works upon the algorithm of the tree.
+Databases also use tree data structures for indexing.
+Domain Name Server(DNS) also uses tree structures.
+File explorer/my computer of mobile/any computer
+BST used in computer Graphics
+Posting questions on websites like Quora, the comments are a child of questions.
+Parsers(XML parser).
+Code Compression(zip).
+DOM in Html.
+Evaluate an expression (i.e., parse).
+Integral to compilers/automata theory.
+To store the possible moves in a chess game.
+To store the genealogy information of biological species.
+Used by JVM (Java Virtual Machine) to store Java objects. 
+Application of Binary Search Tree:
+D Game Engine.
+Computer Graphics Rendering.
+Routing table.
+
+Application of RED-BLACK Tree:
+Used when there is frequent Insertion/Deletion and few searches.
+K -mean Clustering using a red-black tree, Databases, Simple-minded database, searching words inside dictionaries, searching on the web.
+Process Scheduling in Linux.
+
+Application of AVL Tree:
+More Search and less Insertion/Deletion.
+Data Analysis and Data Mining and the applications which involve more searches.
+
+Application of SUFFIX Tree:
+Fast full-text search, used in most word processors.
+
+Application of TRIE:
+Dictionary application.
+Autocomplete feature in searching.
+Auto-completing the text and spells checking.
+
+Application of Hash Tables:
+Hash Tables are store data in key-value pairs. It only stores data that has a key associated with it. Inserting and Searching operations are easily manageable while using Hash Tables. 
+Data stored in databases is generally of the key-value format which is done through hash tables.
+Every time we type something to be searched in google chrome or other browsers, it generates the desired output based on the principle of hashing.
+Message Digest, a function of cryptography also uses hashing for creating output in such a manner that reaching the original input from that generated output is almost next to impossible.
+In our computers we have various files stored in it, each file has two very crucial pieces of information that is, the filename and file path, in order to make a connection between the filename to its corresponding file path hash tables are used. 
+Social network “feeds”.
+Password hashing.
+Used for fast data lookup - symbol table for compilers, database indexing, caches, Unique data representation.
+To store a set of fixed keywords that are referenced very frequently.
+
+Application of Heap:
+A Heap is a special case of a binary tree where the parent nodes are compared to their children with their values and are arranged accordingly.  
+In heapsort Algorithm, is an algorithm for sorting elements in either min heap(the key of the parent is less than or equal to those of its children) or max heap(the key of the parent is greater than or equal to those of its children), sorting is done with the creation of heaps.
+Heaps are used to implementing a priority queue where priority is based on the order of heap created.
+Systems concerned with security and embedded system such as Linux Kernel uses Heap Sort because of the O( n log(n) ).
+If we are stuck in finding the Kthsmallest (or largest) value of a number then heaps can solve the problem in an easy and fast manner.
+Used by JVM (Java Virtual Machine) to store Java objects.
+
+
+
+Application of Algorithms:
+Algorithms are well-defined sets of instructions designed that are used to solve problems or perform a task. To explain in simpler terms, it is a set of operations performed in a step-by-step manner to execute a task. The real-life applications of algorithms are discussed below. 
+
+Application of Sorting Algorithms:
+Order things by their value.
+Backend Databases (Merge Sort).
+Playing Cards with your friends (Insertion Sort).
+sort() - uses IntroSort (a hybrid of Quicksort, Heapsort, and Insertion Sort), Faster than qsort()
+The contact list on the phone
+Online shopping. To sort prize in different range . example : flipkart and amazon.
+
+Application of Greedy Algorithms:
+Dijkstra algorithm.
+Shopping on a tight budget but want to buy gifts for all family members.
+Prim’s and Kruskal’s algorithms are used for finding the minimum spanning trees.
+Application of Dijkstra Algorithm
+Used in applications like Google Maps to find the shortest path in a graph.
+Application of PRIM’S and KRUSKAL’S Algorithm
+Used for finding the minimum spanning trees.
+Application of Dynamic Programming Algorithms:
+In Google Maps to find the shortest path between the source and the series of destinations (one by one) out of the various available paths.
+In networking to transfer data from a sender to various receivers in a sequential manner.
+Application of Backtracking Algorithms:
+Suppose we are coding a chess-playing algorithm and at a certain point, the algorithm finds that a set of steps fails to win. In this situation, the algorithm will reverse back to the safe state and try another possible set of steps.
+Sudoku solver
+2048 game
+Computer networking.
+To solve problem of the N Queen. 
+To solve the problem of the Maze.
+To find the Hamiltonian Path present in a graph.
+To the love problem of Knight’s Tour Problem.
+
+
